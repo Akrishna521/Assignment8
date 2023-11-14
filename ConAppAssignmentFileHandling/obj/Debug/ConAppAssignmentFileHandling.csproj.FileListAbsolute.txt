@@ -1,0 +1,7 @@
+C:\DOT NET\Day 7\ConAppAssignmentFileHandling\ConAppAssignmentFileHandling\bin\Debug\ConAppAssignmentFileHandling.exe.config
+C:\DOT NET\Day 7\ConAppAssignmentFileHandling\ConAppAssignmentFileHandling\bin\Debug\ConAppAssignmentFileHandling.exe
+C:\DOT NET\Day 7\ConAppAssignmentFileHandling\ConAppAssignmentFileHandling\bin\Debug\ConAppAssignmentFileHandling.pdb
+C:\DOT NET\Day 7\ConAppAssignmentFileHandling\ConAppAssignmentFileHandling\obj\Debug\ConAppAssignmentFileHandling.csproj.AssemblyReference.cache
+C:\DOT NET\Day 7\ConAppAssignmentFileHandling\ConAppAssignmentFileHandling\obj\Debug\ConAppAssignmentFileHandling.csproj.CoreCompileInputs.cache
+C:\DOT NET\Day 7\ConAppAssignmentFileHandling\ConAppAssignmentFileHandling\obj\Debug\ConAppAssignmentFileHandling.exe
+C:\DOT NET\Day 7\ConAppAssignmentFileHandling\ConAppAssignmentFileHandling\obj\Debug\ConAppAssignmentFileHandling.pdb
